@@ -17,9 +17,10 @@ Goal: Build impactful projects, contribute to open-source, and grow in tech & fi
 ---
 
 ## GitHub Stats  
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharsach16&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharsach16&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsach16&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsach16&layout=compact&hide_border=true)
+
 
 ---
 
