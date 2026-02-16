@@ -1,29 +1,29 @@
-# Hi 👋, I'm Tushar  
+# Hi , I'm Tushar  
 
-🎓 CS Student  
-💻 Passionate about **Technology, AI, Startups, and Finance**  
-🚀 On a journey to master **Generative AI, Competitive Programming, and Full-Stack Development**  
-🎯 Goal: Build impactful projects, contribute to open-source, and grow in tech & finance  
-
----
-
-## 🚀 About Me  
-- 🌱 Currently learning **Generative AI & Deep Learning**  
-- 💡 Exploring **AI + Finance** applications  
-- 💻 Practicing **LeetCode + CP daily** (preparing for top product-based companies)  
-- 📚 Always sharing learnings in **AI, startups, and student life**  
-- 🎯 Ambition: **Tech + Finance career with startup & AI focus**  
+CS Student  
+Passionate about **Technology, AI, Startups, and Finance**  
+On a journey to master **Generative AI, Competitive Programming, and Full-Stack Development**  
+Goal: Build impactful projects, contribute to open-source, and grow in tech & finance  
 
 ---
 
-## 📊 GitHub Stats  
+## About Me  
+- Currently learning **Generative AI & Deep Learning**  
+- Exploring **AI + Finance** applications  
+- Practicing **LeetCode + CP daily** (preparing for top product-based companies)  
+- Always sharing learnings in **AI, startups, and student life**  
+- Ambition: **Tech + Finance career with startup & AI focus**  
+
+---
+
+## GitHub Stats  
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharsach16&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsach16&layout=compact&theme=radical)
 
 ---
 
-## ⚡ Languages & Tools  
+## Languages & Tools  
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -40,11 +40,11 @@
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/tushar-2151b1343/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:tusharschdeva16@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>  
 
 ---
-⭐️ From [tusharsach16](https://github.com/tusharsach16)
+From [tusharsach16](https://github.com/tusharsach16)
