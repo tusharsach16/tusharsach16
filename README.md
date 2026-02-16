@@ -17,10 +17,9 @@ Goal: Build impactful projects, contribute to open-source, and grow in tech & fi
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharsach16&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-alpha-eight-24.vercel.app/api?username=tusharsach16&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsach16&layout=compact&hide_border=true)
-
+![Top Languages](https://github-readme-stats-alpha-eight-24.vercel.app/api/top-langs/?username=tusharsach16&layout=compact&hide_border=true)
 
 ---
 
