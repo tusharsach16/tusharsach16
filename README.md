@@ -2,7 +2,7 @@
 
 CS Student  
 Passionate about **Technology, AI, Startups, and Finance**  
-On a journey to master **Generative AI, Competitive Programming, and Full-Stack Development**  
+On a journey to master **Generative AI and Full-Stack Development**  
 Goal: Build impactful projects, contribute to open-source, and grow in tech & finance  
 
 ---
@@ -10,8 +10,8 @@ Goal: Build impactful projects, contribute to open-source, and grow in tech & fi
 ## About Me  
 - Currently learning **Generative AI & Deep Learning**  
 - Exploring **AI + Finance** applications  
-- Practicing **LeetCode + CP daily** (preparing for top product-based companies)  
-- Always sharing learnings in **AI, startups, and student life**  
+- Practicing **LeetCode daily** (preparing for top product-based companies)  
+- Always sharing learnings in **AI, startups and student life**  
 - Ambition: **Tech + Finance career with startup & AI focus**  
 
 ---
