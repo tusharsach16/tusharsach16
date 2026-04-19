@@ -3,7 +3,7 @@
 CS Student  
 Passionate about **Technology, AI, Startups, and Finance**  
 On a journey to master **Generative AI and Full-Stack Development**  
-Goal: Build impactful projects, contribute to open-source, and grow in tech & finance  
+Goal: Build impactful projects, contribute to open-source and grow in tech & finance  
 
 ---
 
